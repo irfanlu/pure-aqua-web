@@ -38,7 +38,7 @@ const Navbar = () => {
         </ul>
 
         <a
-          href="tel:+919876543210"
+          href="tel:+919580606009"
           className="hidden md:flex items-center gap-2 gradient-water text-primary-foreground px-5 py-2.5 rounded-full font-heading font-semibold text-sm hover:opacity-90 transition-opacity"
         >
           <Phone className="w-4 h-4" />
