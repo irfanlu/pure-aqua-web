@@ -44,20 +44,20 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-aqua mt-0.5 shrink-0" />
                 <span className="text-navy-foreground/70 font-body text-sm">
-                  123 Water Street, Industrial Area,<br />
-                  New Delhi, India - 110001
+                  Sitapur Road Khadra Lucknow,<br />
+                  Uttar Pradesh, India - 226020
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-aqua shrink-0" />
-                <a href="tel:+919876543210" className="text-navy-foreground/70 hover:text-aqua transition-colors font-body text-sm">
-                  +91 98765 43210
+                <a href="tel:+919580606009" className="text-navy-foreground/70 hover:text-aqua transition-colors font-body text-sm">
+                  +91 9580606009
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-aqua shrink-0" />
                 <a href="mailto:info@purexaqua.com" className="text-navy-foreground/70 hover:text-aqua transition-colors font-body text-sm">
-                  info@purexaqua.com
+                  pureaqua01@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-3">
